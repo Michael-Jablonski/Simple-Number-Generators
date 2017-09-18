@@ -1,5 +1,4 @@
 # Simple-Number-Generators
-C code to generate numbers with linear feedback shift registers
 
 These C functions are linear feedback shift registers, which produce non-sequential numbers across the full range of several integer word sizes (8, 11, 16, 23, 32, 52, and 64 bits).
 
