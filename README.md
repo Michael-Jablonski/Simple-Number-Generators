@@ -8,8 +8,6 @@ The generator cycles back to 1, with a cycle length of (2 raised to the nth powe
 
 The unusual word sizes, 11, 23, and 52 bits can be used to generate numbers for the IEEE floating point exponents and mantissas:  11-bit exponent for IEEE double precision; 23- bit mantissa for IEEE single precision; 52-bit mantissa for IEEE double precision.
 
-Example Usage
-
 I wrote this code for firmware running in the Texas Instrument’s MSP430 micro- controller, to produce test data for 10 different data types:  
 
 1)	signed 8-bit integers
