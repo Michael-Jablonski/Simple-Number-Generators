@@ -35,7 +35,7 @@ int main()
     while (r16!= 1)                         // when 1 is reached, the cycle starts over
     {
       r16 = shift_16_bit_feedback_register();
-      //printf("%u\n", r16);
+      printf("%u\n", r16);
     }
 
     // Iterations required to generate the full range of numbers:
