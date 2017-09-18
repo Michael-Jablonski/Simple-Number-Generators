@@ -1,4 +1,4 @@
-# Simple-Number-Generators
+,# Simple-Number-Generators
 
 These C functions are linear feedback shift registers, which produce non-sequential numbers across the full range of several integer word sizes (8, 11, 16, 23, 32, 52, and 64 bits).
 
@@ -33,4 +33,5 @@ References
 
 
 Michael Jablonski
+
 September 2017
