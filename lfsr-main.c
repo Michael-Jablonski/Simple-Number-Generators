@@ -12,8 +12,7 @@ int main()
     unsigned char r8 = 0;
     unsigned int r11 = 0;
     unsigned int r16 = 0;
-    unsigned long r32 = 0;
-    
+        
     printf("8 bits\n");
 
     while (r8 != 1)                         // when 1 is reached, the cycle starts over
