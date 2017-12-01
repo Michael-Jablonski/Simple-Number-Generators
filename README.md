@@ -10,14 +10,14 @@ The unusual word sizes, 11, 23, and 52 bits can be used to generate numbers for 
 
 I wrote this code for firmware running in the Texas Instrument’s MSP430 micro- controller, to produce test data for 10 different data types:  
 
-1)	signed 8-bit integers
-2)	unsigned 8-bit integers
-3)	signed 16-bit integers
-4)	unsigned 16-bit integers
-5)	signed 32-bit integers
-6)	unsigned 32-bit integers
-7)	signed 64-bit integers
-8)	unsigned 64-bit integers
+1)	signed 8-bit integer
+2)	unsigned 8-bit integer
+3)	signed 16-bit integer
+4)	unsigned 16-bit integer
+5)	signed 32-bit integer
+6)	unsigned 32-bit integer
+7)	signed 64-bit integer
+8)	unsigned 64-bit integer
 9)	IEEE 32-bit floating point single precision/binary32
 10)	IEEE 64-bit floating point double precision/binary64
 
