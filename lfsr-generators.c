@@ -1,6 +1,17 @@
 
 /* Simple-Number-Generators */
 
+/*
+
+Michael Jablonski
+NR Systems, Inc.
+River Heights, Utah
+
+michael@natrescon.com
+
+*/
+
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

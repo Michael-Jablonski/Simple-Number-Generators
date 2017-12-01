@@ -1,6 +1,16 @@
 
 /* Simple-Number-Generators */
 
+/*
+
+Michael Jablonski
+NR Systems, Inc.
+River Heights, Utah
+
+michael@natrescon.com
+
+*/
+
 #define BIT_0 0x01
 #define BIT_1 0x02
 #define BIT_2 0x04
